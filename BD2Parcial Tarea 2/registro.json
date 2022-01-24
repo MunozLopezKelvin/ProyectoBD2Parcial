@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "61ec685b1655ae5c8d9428a5"
+  },
+  "id_registro": 1,
+  "tipo_registro": "Ingreso_estudiante",
+  "comentario_registro": "Se ha ingresdo un nuevo cliente, el número de clientes registrados es de: "
+}]

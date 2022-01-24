@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "61ec65121655ae5c8d942895"
+  },
+  "ced_cliente": 1315908671,
+  "cod_membresia": "DIAM",
+  "nombres_cliente": "Kelvin Muñoz",
+  "telf_cliente": "0999289203",
+  "fecha_registro_cliente": "2021-09-19"
+},{
+  "_id": {
+    "$oid": "61ec65121655ae5c8d942896"
+  },
+  "ced_cliente": 1315259398,
+  "cod_membresia": "ORO",
+  "nombres_cliente": "Andrés Yudeh",
+  "telf_cliente": "0969097685",
+  "fecha_registro_cliente": "2021-11-23"
+},{
+  "_id": {
+    "$oid": "61ec65121655ae5c8d942897"
+  },
+  "ced_cliente": 1300119664,
+  "cod_membresia": "PLAT",
+  "nombres_cliente": "Marcelo Reyes",
+  "telf_cliente": "0998576248",
+  "fecha_registro_cliente": "2021-05-15"
+}]
